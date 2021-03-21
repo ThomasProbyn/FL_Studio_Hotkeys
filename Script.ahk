@@ -55,7 +55,7 @@ Menu, PersonalMenu, Show
 Return
 
 +v::
-Menu, VST, Add, 3xOsc, xOSC
+Menu, VST, Add, FLEX, Flex
 
 Menu, VST, Add, Reeverb 2, Verb2, +Break
 Menu, VST, Add, Delay 3, Delay3
